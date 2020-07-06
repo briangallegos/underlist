@@ -20,10 +20,10 @@ const Header = () => {
   `)
 
   return (
-    <div className="container pt-6 pb-12 md:pt-12">
+    <div className="container pt-4 pb-6 md:pt-10">
       <div className="flex justify-between items-center">
         <Link to="/">
-          <img alt="Logo" className="w-24 md:w-32" src="logo.svg" />
+          <img alt="Logo" className="w-24 md:w-32" src="underlistlogo.png" />
         </Link>
 
         <button
